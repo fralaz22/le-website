@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+p{
+    color: grey;
+}
+
+ul {
+    color: lightgreen;
+}
+
+h1,h2{
+    font-family: cursive;
+}
